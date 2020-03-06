@@ -1,0 +1,8 @@
+.espace{
+    display: flex;
+    flex-flow: column nowrap
+}
+
+.icono1{
+    flex-flow: column nowrap;
+}

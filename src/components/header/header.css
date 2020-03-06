@@ -1,0 +1,12 @@
+
+  .titulo {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px rgb(189, 189, 189);
+    padding: 20px;
+  
+  }
+  
+  .titulo h2{
+    font-size: 16px;
+  }
